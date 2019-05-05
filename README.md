@@ -2,7 +2,7 @@
 
 https://belay-buddy.herokuapp.com/
 
-![Landing Page](/img/landing.png)
+![Landing Page](/img/screenshot.png)
 
 ## Use
 
